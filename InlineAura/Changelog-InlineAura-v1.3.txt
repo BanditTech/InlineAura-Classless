@@ -1,0 +1,11 @@
+tag v1.3
+1aabcb7d8cf28d096b3da353b2b4ca4c016bb49e
+Adirelle <adirelle@tagada-team.net>
+2010-10-23 19:35:59 +0200
+
+Tagging as v1.3
+
+
+--------------------
+
+No changelog
